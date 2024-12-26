@@ -1,0 +1,15 @@
+C:\Projetos\Personal\Github\design-patterns\behavior-patterns\state-pattern\c#\StatePattern\obj\Debug\net9.0\StatePattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Personal\Github\design-patterns\behavior-patterns\state-pattern\c#\StatePattern\obj\Debug\net9.0\StatePattern.AssemblyInfoInputs.cache
+C:\Projetos\Personal\Github\design-patterns\behavior-patterns\state-pattern\c#\StatePattern\obj\Debug\net9.0\StatePattern.AssemblyInfo.cs
+C:\Projetos\Personal\Github\design-patterns\behavior-patterns\state-pattern\c#\StatePattern\obj\Debug\net9.0\StatePattern.csproj.CoreCompileInputs.cache
+C:\Projetos\Personal\Github\design-patterns\behavior-patterns\state-pattern\c#\StatePattern\obj\Debug\net9.0\StatePattern.sourcelink.json
+C:\Projetos\Personal\Github\design-patterns\behavior-patterns\state-pattern\c#\StatePattern\bin\Debug\net9.0\StatePattern.exe
+C:\Projetos\Personal\Github\design-patterns\behavior-patterns\state-pattern\c#\StatePattern\bin\Debug\net9.0\StatePattern.deps.json
+C:\Projetos\Personal\Github\design-patterns\behavior-patterns\state-pattern\c#\StatePattern\bin\Debug\net9.0\StatePattern.runtimeconfig.json
+C:\Projetos\Personal\Github\design-patterns\behavior-patterns\state-pattern\c#\StatePattern\bin\Debug\net9.0\StatePattern.dll
+C:\Projetos\Personal\Github\design-patterns\behavior-patterns\state-pattern\c#\StatePattern\bin\Debug\net9.0\StatePattern.pdb
+C:\Projetos\Personal\Github\design-patterns\behavior-patterns\state-pattern\c#\StatePattern\obj\Debug\net9.0\StatePattern.dll
+C:\Projetos\Personal\Github\design-patterns\behavior-patterns\state-pattern\c#\StatePattern\obj\Debug\net9.0\refint\StatePattern.dll
+C:\Projetos\Personal\Github\design-patterns\behavior-patterns\state-pattern\c#\StatePattern\obj\Debug\net9.0\StatePattern.pdb
+C:\Projetos\Personal\Github\design-patterns\behavior-patterns\state-pattern\c#\StatePattern\obj\Debug\net9.0\StatePattern.genruntimeconfig.cache
+C:\Projetos\Personal\Github\design-patterns\behavior-patterns\state-pattern\c#\StatePattern\obj\Debug\net9.0\ref\StatePattern.dll

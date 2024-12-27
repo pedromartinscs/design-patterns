@@ -1,0 +1,15 @@
+C:\Projetos\Personal\Github\design-patterns\behavior-patterns\iterator-pattern\c#\IteratorPattern\bin\Debug\net9.0\IteratorPattern.exe
+C:\Projetos\Personal\Github\design-patterns\behavior-patterns\iterator-pattern\c#\IteratorPattern\bin\Debug\net9.0\IteratorPattern.deps.json
+C:\Projetos\Personal\Github\design-patterns\behavior-patterns\iterator-pattern\c#\IteratorPattern\bin\Debug\net9.0\IteratorPattern.runtimeconfig.json
+C:\Projetos\Personal\Github\design-patterns\behavior-patterns\iterator-pattern\c#\IteratorPattern\bin\Debug\net9.0\IteratorPattern.dll
+C:\Projetos\Personal\Github\design-patterns\behavior-patterns\iterator-pattern\c#\IteratorPattern\bin\Debug\net9.0\IteratorPattern.pdb
+C:\Projetos\Personal\Github\design-patterns\behavior-patterns\iterator-pattern\c#\IteratorPattern\obj\Debug\net9.0\IteratorPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Personal\Github\design-patterns\behavior-patterns\iterator-pattern\c#\IteratorPattern\obj\Debug\net9.0\IteratorPattern.AssemblyInfoInputs.cache
+C:\Projetos\Personal\Github\design-patterns\behavior-patterns\iterator-pattern\c#\IteratorPattern\obj\Debug\net9.0\IteratorPattern.AssemblyInfo.cs
+C:\Projetos\Personal\Github\design-patterns\behavior-patterns\iterator-pattern\c#\IteratorPattern\obj\Debug\net9.0\IteratorPattern.csproj.CoreCompileInputs.cache
+C:\Projetos\Personal\Github\design-patterns\behavior-patterns\iterator-pattern\c#\IteratorPattern\obj\Debug\net9.0\IteratorPattern.sourcelink.json
+C:\Projetos\Personal\Github\design-patterns\behavior-patterns\iterator-pattern\c#\IteratorPattern\obj\Debug\net9.0\IteratorPattern.dll
+C:\Projetos\Personal\Github\design-patterns\behavior-patterns\iterator-pattern\c#\IteratorPattern\obj\Debug\net9.0\refint\IteratorPattern.dll
+C:\Projetos\Personal\Github\design-patterns\behavior-patterns\iterator-pattern\c#\IteratorPattern\obj\Debug\net9.0\IteratorPattern.pdb
+C:\Projetos\Personal\Github\design-patterns\behavior-patterns\iterator-pattern\c#\IteratorPattern\obj\Debug\net9.0\IteratorPattern.genruntimeconfig.cache
+C:\Projetos\Personal\Github\design-patterns\behavior-patterns\iterator-pattern\c#\IteratorPattern\obj\Debug\net9.0\ref\IteratorPattern.dll

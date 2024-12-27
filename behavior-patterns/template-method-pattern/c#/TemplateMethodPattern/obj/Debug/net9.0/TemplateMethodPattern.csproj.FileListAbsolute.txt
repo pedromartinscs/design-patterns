@@ -1,0 +1,15 @@
+C:\Projetos\Personal\Github\design-patterns\behavior-patterns\template-method-pattern\c#\TemplateMethodPattern\bin\Debug\net9.0\TemplateMethodPattern.exe
+C:\Projetos\Personal\Github\design-patterns\behavior-patterns\template-method-pattern\c#\TemplateMethodPattern\bin\Debug\net9.0\TemplateMethodPattern.deps.json
+C:\Projetos\Personal\Github\design-patterns\behavior-patterns\template-method-pattern\c#\TemplateMethodPattern\bin\Debug\net9.0\TemplateMethodPattern.runtimeconfig.json
+C:\Projetos\Personal\Github\design-patterns\behavior-patterns\template-method-pattern\c#\TemplateMethodPattern\bin\Debug\net9.0\TemplateMethodPattern.dll
+C:\Projetos\Personal\Github\design-patterns\behavior-patterns\template-method-pattern\c#\TemplateMethodPattern\bin\Debug\net9.0\TemplateMethodPattern.pdb
+C:\Projetos\Personal\Github\design-patterns\behavior-patterns\template-method-pattern\c#\TemplateMethodPattern\obj\Debug\net9.0\TemplateMethodPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Personal\Github\design-patterns\behavior-patterns\template-method-pattern\c#\TemplateMethodPattern\obj\Debug\net9.0\TemplateMethodPattern.AssemblyInfoInputs.cache
+C:\Projetos\Personal\Github\design-patterns\behavior-patterns\template-method-pattern\c#\TemplateMethodPattern\obj\Debug\net9.0\TemplateMethodPattern.AssemblyInfo.cs
+C:\Projetos\Personal\Github\design-patterns\behavior-patterns\template-method-pattern\c#\TemplateMethodPattern\obj\Debug\net9.0\TemplateMethodPattern.csproj.CoreCompileInputs.cache
+C:\Projetos\Personal\Github\design-patterns\behavior-patterns\template-method-pattern\c#\TemplateMethodPattern\obj\Debug\net9.0\TemplateMethodPattern.sourcelink.json
+C:\Projetos\Personal\Github\design-patterns\behavior-patterns\template-method-pattern\c#\TemplateMethodPattern\obj\Debug\net9.0\TemplateMethodPattern.dll
+C:\Projetos\Personal\Github\design-patterns\behavior-patterns\template-method-pattern\c#\TemplateMethodPattern\obj\Debug\net9.0\refint\TemplateMethodPattern.dll
+C:\Projetos\Personal\Github\design-patterns\behavior-patterns\template-method-pattern\c#\TemplateMethodPattern\obj\Debug\net9.0\TemplateMethodPattern.pdb
+C:\Projetos\Personal\Github\design-patterns\behavior-patterns\template-method-pattern\c#\TemplateMethodPattern\obj\Debug\net9.0\TemplateMethodPattern.genruntimeconfig.cache
+C:\Projetos\Personal\Github\design-patterns\behavior-patterns\template-method-pattern\c#\TemplateMethodPattern\obj\Debug\net9.0\ref\TemplateMethodPattern.dll

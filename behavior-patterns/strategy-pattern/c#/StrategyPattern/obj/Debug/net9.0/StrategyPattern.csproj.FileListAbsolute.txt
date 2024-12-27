@@ -1,0 +1,15 @@
+C:\Projetos\Personal\Github\design-patterns\behavior-patterns\strategy-pattern\c#\StrategyPattern\bin\Debug\net9.0\StrategyPattern.exe
+C:\Projetos\Personal\Github\design-patterns\behavior-patterns\strategy-pattern\c#\StrategyPattern\bin\Debug\net9.0\StrategyPattern.deps.json
+C:\Projetos\Personal\Github\design-patterns\behavior-patterns\strategy-pattern\c#\StrategyPattern\bin\Debug\net9.0\StrategyPattern.runtimeconfig.json
+C:\Projetos\Personal\Github\design-patterns\behavior-patterns\strategy-pattern\c#\StrategyPattern\bin\Debug\net9.0\StrategyPattern.dll
+C:\Projetos\Personal\Github\design-patterns\behavior-patterns\strategy-pattern\c#\StrategyPattern\bin\Debug\net9.0\StrategyPattern.pdb
+C:\Projetos\Personal\Github\design-patterns\behavior-patterns\strategy-pattern\c#\StrategyPattern\obj\Debug\net9.0\StrategyPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Personal\Github\design-patterns\behavior-patterns\strategy-pattern\c#\StrategyPattern\obj\Debug\net9.0\StrategyPattern.AssemblyInfoInputs.cache
+C:\Projetos\Personal\Github\design-patterns\behavior-patterns\strategy-pattern\c#\StrategyPattern\obj\Debug\net9.0\StrategyPattern.AssemblyInfo.cs
+C:\Projetos\Personal\Github\design-patterns\behavior-patterns\strategy-pattern\c#\StrategyPattern\obj\Debug\net9.0\StrategyPattern.csproj.CoreCompileInputs.cache
+C:\Projetos\Personal\Github\design-patterns\behavior-patterns\strategy-pattern\c#\StrategyPattern\obj\Debug\net9.0\StrategyPattern.sourcelink.json
+C:\Projetos\Personal\Github\design-patterns\behavior-patterns\strategy-pattern\c#\StrategyPattern\obj\Debug\net9.0\StrategyPattern.dll
+C:\Projetos\Personal\Github\design-patterns\behavior-patterns\strategy-pattern\c#\StrategyPattern\obj\Debug\net9.0\refint\StrategyPattern.dll
+C:\Projetos\Personal\Github\design-patterns\behavior-patterns\strategy-pattern\c#\StrategyPattern\obj\Debug\net9.0\StrategyPattern.pdb
+C:\Projetos\Personal\Github\design-patterns\behavior-patterns\strategy-pattern\c#\StrategyPattern\obj\Debug\net9.0\StrategyPattern.genruntimeconfig.cache
+C:\Projetos\Personal\Github\design-patterns\behavior-patterns\strategy-pattern\c#\StrategyPattern\obj\Debug\net9.0\ref\StrategyPattern.dll

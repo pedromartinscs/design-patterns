@@ -1,0 +1,15 @@
+C:\Projetos\Personal\Github\design-patterns\behavior-patterns\command-pattern\c#\CommandPattern\bin\Debug\net9.0\CommandPattern.exe
+C:\Projetos\Personal\Github\design-patterns\behavior-patterns\command-pattern\c#\CommandPattern\bin\Debug\net9.0\CommandPattern.deps.json
+C:\Projetos\Personal\Github\design-patterns\behavior-patterns\command-pattern\c#\CommandPattern\bin\Debug\net9.0\CommandPattern.runtimeconfig.json
+C:\Projetos\Personal\Github\design-patterns\behavior-patterns\command-pattern\c#\CommandPattern\bin\Debug\net9.0\CommandPattern.dll
+C:\Projetos\Personal\Github\design-patterns\behavior-patterns\command-pattern\c#\CommandPattern\bin\Debug\net9.0\CommandPattern.pdb
+C:\Projetos\Personal\Github\design-patterns\behavior-patterns\command-pattern\c#\CommandPattern\obj\Debug\net9.0\CommandPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Personal\Github\design-patterns\behavior-patterns\command-pattern\c#\CommandPattern\obj\Debug\net9.0\CommandPattern.AssemblyInfoInputs.cache
+C:\Projetos\Personal\Github\design-patterns\behavior-patterns\command-pattern\c#\CommandPattern\obj\Debug\net9.0\CommandPattern.AssemblyInfo.cs
+C:\Projetos\Personal\Github\design-patterns\behavior-patterns\command-pattern\c#\CommandPattern\obj\Debug\net9.0\CommandPattern.csproj.CoreCompileInputs.cache
+C:\Projetos\Personal\Github\design-patterns\behavior-patterns\command-pattern\c#\CommandPattern\obj\Debug\net9.0\CommandPattern.sourcelink.json
+C:\Projetos\Personal\Github\design-patterns\behavior-patterns\command-pattern\c#\CommandPattern\obj\Debug\net9.0\CommandPattern.dll
+C:\Projetos\Personal\Github\design-patterns\behavior-patterns\command-pattern\c#\CommandPattern\obj\Debug\net9.0\refint\CommandPattern.dll
+C:\Projetos\Personal\Github\design-patterns\behavior-patterns\command-pattern\c#\CommandPattern\obj\Debug\net9.0\CommandPattern.pdb
+C:\Projetos\Personal\Github\design-patterns\behavior-patterns\command-pattern\c#\CommandPattern\obj\Debug\net9.0\CommandPattern.genruntimeconfig.cache
+C:\Projetos\Personal\Github\design-patterns\behavior-patterns\command-pattern\c#\CommandPattern\obj\Debug\net9.0\ref\CommandPattern.dll

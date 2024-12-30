@@ -1,0 +1,15 @@
+C:\Projetos\Personal\Github\design-patterns\behavior-patterns\observer-pattern\c#\ObserverPattern\bin\Debug\net9.0\ObserverPattern.exe
+C:\Projetos\Personal\Github\design-patterns\behavior-patterns\observer-pattern\c#\ObserverPattern\bin\Debug\net9.0\ObserverPattern.deps.json
+C:\Projetos\Personal\Github\design-patterns\behavior-patterns\observer-pattern\c#\ObserverPattern\bin\Debug\net9.0\ObserverPattern.runtimeconfig.json
+C:\Projetos\Personal\Github\design-patterns\behavior-patterns\observer-pattern\c#\ObserverPattern\bin\Debug\net9.0\ObserverPattern.dll
+C:\Projetos\Personal\Github\design-patterns\behavior-patterns\observer-pattern\c#\ObserverPattern\bin\Debug\net9.0\ObserverPattern.pdb
+C:\Projetos\Personal\Github\design-patterns\behavior-patterns\observer-pattern\c#\ObserverPattern\obj\Debug\net9.0\ObserverPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Personal\Github\design-patterns\behavior-patterns\observer-pattern\c#\ObserverPattern\obj\Debug\net9.0\ObserverPattern.AssemblyInfoInputs.cache
+C:\Projetos\Personal\Github\design-patterns\behavior-patterns\observer-pattern\c#\ObserverPattern\obj\Debug\net9.0\ObserverPattern.AssemblyInfo.cs
+C:\Projetos\Personal\Github\design-patterns\behavior-patterns\observer-pattern\c#\ObserverPattern\obj\Debug\net9.0\ObserverPattern.csproj.CoreCompileInputs.cache
+C:\Projetos\Personal\Github\design-patterns\behavior-patterns\observer-pattern\c#\ObserverPattern\obj\Debug\net9.0\ObserverPattern.sourcelink.json
+C:\Projetos\Personal\Github\design-patterns\behavior-patterns\observer-pattern\c#\ObserverPattern\obj\Debug\net9.0\ObserverPattern.dll
+C:\Projetos\Personal\Github\design-patterns\behavior-patterns\observer-pattern\c#\ObserverPattern\obj\Debug\net9.0\refint\ObserverPattern.dll
+C:\Projetos\Personal\Github\design-patterns\behavior-patterns\observer-pattern\c#\ObserverPattern\obj\Debug\net9.0\ObserverPattern.pdb
+C:\Projetos\Personal\Github\design-patterns\behavior-patterns\observer-pattern\c#\ObserverPattern\obj\Debug\net9.0\ObserverPattern.genruntimeconfig.cache
+C:\Projetos\Personal\Github\design-patterns\behavior-patterns\observer-pattern\c#\ObserverPattern\obj\Debug\net9.0\ref\ObserverPattern.dll

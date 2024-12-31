@@ -1,0 +1,15 @@
+C:\Projetos\Personal\Github\design-patterns\behavior-patterns\chain-of-responsibility-pattern\c#\ChainOfResponsibilityPattern\bin\Debug\net9.0\ChainOfResponsibilityPattern.exe
+C:\Projetos\Personal\Github\design-patterns\behavior-patterns\chain-of-responsibility-pattern\c#\ChainOfResponsibilityPattern\bin\Debug\net9.0\ChainOfResponsibilityPattern.deps.json
+C:\Projetos\Personal\Github\design-patterns\behavior-patterns\chain-of-responsibility-pattern\c#\ChainOfResponsibilityPattern\bin\Debug\net9.0\ChainOfResponsibilityPattern.runtimeconfig.json
+C:\Projetos\Personal\Github\design-patterns\behavior-patterns\chain-of-responsibility-pattern\c#\ChainOfResponsibilityPattern\bin\Debug\net9.0\ChainOfResponsibilityPattern.dll
+C:\Projetos\Personal\Github\design-patterns\behavior-patterns\chain-of-responsibility-pattern\c#\ChainOfResponsibilityPattern\bin\Debug\net9.0\ChainOfResponsibilityPattern.pdb
+C:\Projetos\Personal\Github\design-patterns\behavior-patterns\chain-of-responsibility-pattern\c#\ChainOfResponsibilityPattern\obj\Debug\net9.0\ChainOfResponsibilityPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Personal\Github\design-patterns\behavior-patterns\chain-of-responsibility-pattern\c#\ChainOfResponsibilityPattern\obj\Debug\net9.0\ChainOfResponsibilityPattern.AssemblyInfoInputs.cache
+C:\Projetos\Personal\Github\design-patterns\behavior-patterns\chain-of-responsibility-pattern\c#\ChainOfResponsibilityPattern\obj\Debug\net9.0\ChainOfResponsibilityPattern.AssemblyInfo.cs
+C:\Projetos\Personal\Github\design-patterns\behavior-patterns\chain-of-responsibility-pattern\c#\ChainOfResponsibilityPattern\obj\Debug\net9.0\ChainOfResponsibilityPattern.csproj.CoreCompileInputs.cache
+C:\Projetos\Personal\Github\design-patterns\behavior-patterns\chain-of-responsibility-pattern\c#\ChainOfResponsibilityPattern\obj\Debug\net9.0\ChainOfResponsibilityPattern.sourcelink.json
+C:\Projetos\Personal\Github\design-patterns\behavior-patterns\chain-of-responsibility-pattern\c#\ChainOfResponsibilityPattern\obj\Debug\net9.0\ChainOfResponsibilityPattern.dll
+C:\Projetos\Personal\Github\design-patterns\behavior-patterns\chain-of-responsibility-pattern\c#\ChainOfResponsibilityPattern\obj\Debug\net9.0\refint\ChainOfResponsibilityPattern.dll
+C:\Projetos\Personal\Github\design-patterns\behavior-patterns\chain-of-responsibility-pattern\c#\ChainOfResponsibilityPattern\obj\Debug\net9.0\ChainOfResponsibilityPattern.pdb
+C:\Projetos\Personal\Github\design-patterns\behavior-patterns\chain-of-responsibility-pattern\c#\ChainOfResponsibilityPattern\obj\Debug\net9.0\ChainOfResponsibilityPattern.genruntimeconfig.cache
+C:\Projetos\Personal\Github\design-patterns\behavior-patterns\chain-of-responsibility-pattern\c#\ChainOfResponsibilityPattern\obj\Debug\net9.0\ref\ChainOfResponsibilityPattern.dll

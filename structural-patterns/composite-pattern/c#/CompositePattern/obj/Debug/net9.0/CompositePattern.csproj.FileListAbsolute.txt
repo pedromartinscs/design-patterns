@@ -1,0 +1,15 @@
+C:\Projetos\Personal\Github\design-patterns\structural-patterns\composite-pattern\c#\CompositePattern\bin\Debug\net9.0\CompositePattern.exe
+C:\Projetos\Personal\Github\design-patterns\structural-patterns\composite-pattern\c#\CompositePattern\bin\Debug\net9.0\CompositePattern.deps.json
+C:\Projetos\Personal\Github\design-patterns\structural-patterns\composite-pattern\c#\CompositePattern\bin\Debug\net9.0\CompositePattern.runtimeconfig.json
+C:\Projetos\Personal\Github\design-patterns\structural-patterns\composite-pattern\c#\CompositePattern\bin\Debug\net9.0\CompositePattern.dll
+C:\Projetos\Personal\Github\design-patterns\structural-patterns\composite-pattern\c#\CompositePattern\bin\Debug\net9.0\CompositePattern.pdb
+C:\Projetos\Personal\Github\design-patterns\structural-patterns\composite-pattern\c#\CompositePattern\obj\Debug\net9.0\CompositePattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Personal\Github\design-patterns\structural-patterns\composite-pattern\c#\CompositePattern\obj\Debug\net9.0\CompositePattern.AssemblyInfoInputs.cache
+C:\Projetos\Personal\Github\design-patterns\structural-patterns\composite-pattern\c#\CompositePattern\obj\Debug\net9.0\CompositePattern.AssemblyInfo.cs
+C:\Projetos\Personal\Github\design-patterns\structural-patterns\composite-pattern\c#\CompositePattern\obj\Debug\net9.0\CompositePattern.csproj.CoreCompileInputs.cache
+C:\Projetos\Personal\Github\design-patterns\structural-patterns\composite-pattern\c#\CompositePattern\obj\Debug\net9.0\CompositePattern.sourcelink.json
+C:\Projetos\Personal\Github\design-patterns\structural-patterns\composite-pattern\c#\CompositePattern\obj\Debug\net9.0\CompositePattern.dll
+C:\Projetos\Personal\Github\design-patterns\structural-patterns\composite-pattern\c#\CompositePattern\obj\Debug\net9.0\refint\CompositePattern.dll
+C:\Projetos\Personal\Github\design-patterns\structural-patterns\composite-pattern\c#\CompositePattern\obj\Debug\net9.0\CompositePattern.pdb
+C:\Projetos\Personal\Github\design-patterns\structural-patterns\composite-pattern\c#\CompositePattern\obj\Debug\net9.0\CompositePattern.genruntimeconfig.cache
+C:\Projetos\Personal\Github\design-patterns\structural-patterns\composite-pattern\c#\CompositePattern\obj\Debug\net9.0\ref\CompositePattern.dll

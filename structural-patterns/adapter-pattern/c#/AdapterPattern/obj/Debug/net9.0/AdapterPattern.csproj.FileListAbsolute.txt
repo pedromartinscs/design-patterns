@@ -1,0 +1,15 @@
+C:\Projetos\Personal\Github\design-patterns\structural-patterns\adapter-pattern\c#\AdapterPattern\bin\Debug\net9.0\AdapterPattern.exe
+C:\Projetos\Personal\Github\design-patterns\structural-patterns\adapter-pattern\c#\AdapterPattern\bin\Debug\net9.0\AdapterPattern.deps.json
+C:\Projetos\Personal\Github\design-patterns\structural-patterns\adapter-pattern\c#\AdapterPattern\bin\Debug\net9.0\AdapterPattern.runtimeconfig.json
+C:\Projetos\Personal\Github\design-patterns\structural-patterns\adapter-pattern\c#\AdapterPattern\bin\Debug\net9.0\AdapterPattern.dll
+C:\Projetos\Personal\Github\design-patterns\structural-patterns\adapter-pattern\c#\AdapterPattern\bin\Debug\net9.0\AdapterPattern.pdb
+C:\Projetos\Personal\Github\design-patterns\structural-patterns\adapter-pattern\c#\AdapterPattern\obj\Debug\net9.0\AdapterPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Personal\Github\design-patterns\structural-patterns\adapter-pattern\c#\AdapterPattern\obj\Debug\net9.0\AdapterPattern.AssemblyInfoInputs.cache
+C:\Projetos\Personal\Github\design-patterns\structural-patterns\adapter-pattern\c#\AdapterPattern\obj\Debug\net9.0\AdapterPattern.AssemblyInfo.cs
+C:\Projetos\Personal\Github\design-patterns\structural-patterns\adapter-pattern\c#\AdapterPattern\obj\Debug\net9.0\AdapterPattern.csproj.CoreCompileInputs.cache
+C:\Projetos\Personal\Github\design-patterns\structural-patterns\adapter-pattern\c#\AdapterPattern\obj\Debug\net9.0\AdapterPattern.sourcelink.json
+C:\Projetos\Personal\Github\design-patterns\structural-patterns\adapter-pattern\c#\AdapterPattern\obj\Debug\net9.0\AdapterPattern.dll
+C:\Projetos\Personal\Github\design-patterns\structural-patterns\adapter-pattern\c#\AdapterPattern\obj\Debug\net9.0\refint\AdapterPattern.dll
+C:\Projetos\Personal\Github\design-patterns\structural-patterns\adapter-pattern\c#\AdapterPattern\obj\Debug\net9.0\AdapterPattern.pdb
+C:\Projetos\Personal\Github\design-patterns\structural-patterns\adapter-pattern\c#\AdapterPattern\obj\Debug\net9.0\AdapterPattern.genruntimeconfig.cache
+C:\Projetos\Personal\Github\design-patterns\structural-patterns\adapter-pattern\c#\AdapterPattern\obj\Debug\net9.0\ref\AdapterPattern.dll
